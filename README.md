@@ -36,8 +36,6 @@ $ npm run start:prod
 ```
 
 ## API Documentation
-All api using prefix /api  
-Swagger documentation is on {host}/doc  
 root path is swagger documentation
 /hadir/:username to create new transaction
 /report?date=yyyy-MM-dd to generate report, if date query param is empty then generate today report
